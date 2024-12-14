@@ -32,4 +32,4 @@ In the upliance_ai.ipynb notebook, we explored the following aspects of the give
 - Pandas, Matplotlib, Numpy, Seaborn
 
 ## Usage
-To reproduce the analysis, open  AirBnb_Bookings_Analysis_EDA_Submission.ipynb  in Colab Notebook and execute the cells sequentially.
+To reproduce the analysis, open  upliance_ai.ipynb  in Colab Notebook and execute the cells sequentially.
